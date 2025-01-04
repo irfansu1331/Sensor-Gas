@@ -10,10 +10,10 @@ Proyek ini adalah sistem deteksi kebocoran gas menggunakan sensor MQ-2 dan ESP82
 - **Kabel Jumper (female/male)**
 
 # Kebutuhan Software
-- Arduino IDE
+- **Arduino IDE**
 
 ## Instal pustaka berikut:
-- ESP8266WiFi
-- PubSubClient
-- LiquidCrystal_I2C
+- **ESP8266WiFi (http://arduino.esp8266.com/stable/package_esp8266com_index.json)**
+- **PubSubClient**
+- **LiquidCrystal_I2C**
 
